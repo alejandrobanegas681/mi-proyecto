@@ -1,0 +1,5 @@
+PySide6>=6.6
+SQLAlchemy>=2.0
+openpyxl>=3.1          # importar listas de precios en Excel
+psycopg[binary]>=3.1   # solo si usás PostgreSQL
+alembic>=1.13          # migraciones (próximo paso)
